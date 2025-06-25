@@ -1,6 +1,6 @@
 # Tugas Digitaliz – Laravel Project
 
-Project ini dibuat untuk memenuhi tugas kuliah.  
+Project ini dibuat untuk memenuhi tes magang.  
 Fitur utama dari aplikasi ini meliputi:
 
 - ✅ CRUD data (Create, Read, Update, Delete)
