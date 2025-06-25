@@ -7,7 +7,7 @@ Fitur utama dari aplikasi ini meliputi:
 - ✅ FRAMEWORK Frond-end Boostrap (CSS)
 - ✅ FRAMEWORK Back-end Laravel (PHP)
 - ✅ Database MYSQL (XAMPP)
-- ❌ Upload foto belum bisa
+- ❌ Upload foto belum bisa (masih dipelajari)
 - ✅ Tanpa login (sesuai ketentuan tugas)
 - 🔍 Filter / Search / Pagination (opsional)
 
